@@ -136,7 +136,12 @@
         {
             "code": "0x0B",
             "h": 4,
-            "layers": {},
+            "layers": {
+                "0": {
+                    "key": "#:None",
+                    "label": "NONE"
+                }
+            },
             "w": 4,
             "x": 26,
             "y": 7
@@ -489,7 +494,12 @@
         {
             "code": "0x28",
             "h": 4,
-            "layers": {},
+            "layers": {
+                "0": {
+                    "key": "#:None",
+                    "label": "NONE"
+                }
+            },
             "w": 4,
             "x": 18,
             "y": 17
@@ -497,7 +507,12 @@
         {
             "code": "0x29",
             "h": 4,
-            "layers": {},
+            "layers": {
+                "0": {
+                    "key": "#:None",
+                    "label": "NONE"
+                }
+            },
             "w": 4,
             "x": 14,
             "y": 16
@@ -1037,7 +1052,12 @@
         {
             "code": "0x28",
             "h": 4,
-            "layers": {},
+            "layers": {
+                "0": {
+                    "key": "#:None",
+                    "label": "NONE"
+                }
+            },
             "w": 4,
             "x": 50,
             "y": 17
@@ -1045,7 +1065,12 @@
         {
             "code": "0x29",
             "h": 4,
-            "layers": {},
+            "layers": {
+                "0": {
+                    "key": "#:None",
+                    "label": "NONE"
+                }
+            },
             "w": 4,
             "x": 54,
             "y": 16
@@ -1053,7 +1078,12 @@
         {
             "code": "0x2A",
             "h": 4,
-            "layers": {},
+            "layers": {
+                "0": {
+                    "key": "#:None",
+                    "label": "NONE"
+                }
+            },
             "w": 4,
             "x": 58,
             "y": 17
@@ -1061,7 +1091,12 @@
         {
             "code": "0x2B",
             "h": 4,
-            "layers": {},
+            "layers": {
+                "0": {
+                    "key": "#:None",
+                    "label": "NONE"
+                }
+            },
             "w": 4,
             "x": 62,
             "y": 18
